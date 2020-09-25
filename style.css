@@ -1,0 +1,19 @@
+h1{
+    letter-spacing: 10px;
+    font-size: 80px;
+}
+.btn-primary{
+    border-radius: 40px;
+    padding: 10px 20px;
+    font-size: 20px;
+}
+
+.btn-success{
+    border-radius: 40px;
+    padding: 10px 20px;
+    font-size: 20px;
+}
+
+#myInput{
+    padding: 10px 20px;
+}
